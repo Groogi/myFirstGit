@@ -6,3 +6,4 @@ function addition(){
     console.log(result);
 }
 addition();
+
